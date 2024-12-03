@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Light Mode/ Neutral
+    <color name="Black">#272727</color>
+    <color name="FrothyWhite">#F6F2ED</color>
+
+    // Dark Mode/ Neutral
+    <color name="CharcoalFoam">#2E2A27</color>
+    <color name="LightGrey">#989898</color>
+
+    // Light Mode/ Base Colors
+    <color name="EspressoBrown">#4B2C20</color>
+    <color name="CreamyLatte">#D5BBA2</color>
+    <color name="RoastedCaramel">#A67C52</color>
+    <color name="FreshMint">#4E8D7C</color>
+
+    // Dark Mode/ Base Colors
+    <color name="DarkRoast">#332920</color>
+    <color name="BlackCoffee">#1E1410</color>
+    <color name="MidnightCaramel">#8C6A4F</color>
+    <color name="MoonlightMint">#3C7266</color>
+</resources>

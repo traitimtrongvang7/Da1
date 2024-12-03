@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_home" android:title="Home" android:icon="@drawable/ic_home"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/menu_scan" android:title="Scan / Pay" android:icon="@drawable/ic_scan"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/menu_oder" android:title="Order" android:icon="@drawable/ic_order"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/menu_account" android:title="Account" android:icon="@drawable/ic_account"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/menu_rewards" android:title="Rewards" android:icon="@drawable/ic_rewards"
+        tools:ignore="HardcodedText" />
+
+</menu>
